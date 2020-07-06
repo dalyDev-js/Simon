@@ -42,7 +42,7 @@ function checkAnswer(currentLevel) {
       setTimeout(function () {
         $("body").removeClass("game-over");
       }, 200);
-$("footer").text("You are no match to the Game Master!Muahahahaha😈")
+$("footer").text("You are no match to the Game Master!Muahahahaha XD")
       startOver();
     }
 }
